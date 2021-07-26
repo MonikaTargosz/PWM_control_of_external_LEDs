@@ -25,3 +25,4 @@ The dependence of the LEDs' brightness on the PWM filling is not linear. In orde
 
 To get the effect of blinking leds was easy to verify with the "naked eye" the frequency of the timer should be low around 1 Hz. 
 
+![image](https://user-images.githubusercontent.com/37025393/127036295-9c43e0c1-4a3c-4237-92ab-59385ba6412a.png)
